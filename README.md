@@ -1,2 +1,3 @@
-# create-my-cv-using-python
-This project is a simple and efficient Python script designed to automatically generate a clean, well-formatted CV. It helps you create a customizable resume in minutes—perfect for job applications, internships, and portfolio building.
+<img width="584" height="808" alt="image" src="https://github.com/user-attachments/assets/2dfb920b-f11f-46fa-9c93-4e9d162ddb0c" />
+<img width="591" height="814" alt="image" src="https://github.com/user-attachments/assets/fbc7581c-e1e4-4010-bd05-af63d0ec2ae3" />
+
